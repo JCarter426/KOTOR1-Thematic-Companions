@@ -1,0 +1,12 @@
+# Excluded folders
+_*/
+
+# TSLPatcher
+/installlog.*
+/backup/
+/*.exe
+
+# NWScript
+/source/*.bat
+/source/*.ncs
+/source/nwnnsscomp.exe
