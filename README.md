@@ -3,11 +3,11 @@
 |||
 | -------- | ---------------------------------------|
 | Title:   | Thematic KOTOR Companions              |
-| Version: | 1.0.0                                  |
+| Version: | 1.0.1                                  |
 | Game:    | Star Wars: Knights of the Old Republic |
 | Author:  | Sniggles & JCarter426                  |
 
-This mod adjusts the statistics of the companions in _Star Wars: Knights of the Old Republic, addressing some issues with game balance and consistency in theme. See the attached document for a full list of changes and the rationale for each change. 
+This mod adjusts the statistics of the companions in _Star Wars: Knights of the Old Republic_, addressing some issues with game balance and consistency in theme. See the attached document or [view online](https://github.com/JCarter426/KOTOR1-Thematic-Companions/blob/main/details.md) for a full list of changes and the rationale for each change. 
 
 
 # Installation
