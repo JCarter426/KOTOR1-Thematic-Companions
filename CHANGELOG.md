@@ -7,7 +7,7 @@
 - Canderous: Adjust feats.
 - Carth: Take away extra feat.
 - HK-47: Adjust feats and grant one missing feat.
-- Convert documentation to Markdown for online viewing and Rich TextFormat for release.
+- Convert documentation to Markdown for online viewing and Rich Text Format for release.
 
 ## [1.0.0] - 2025-02-14
 
